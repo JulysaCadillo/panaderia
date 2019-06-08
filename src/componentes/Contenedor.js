@@ -5,7 +5,7 @@ import PreciosPanes from "./PreciosPanes";
 
 const Contenedor = () => (
  <div className="contenedor">
-    <div> Linea de Tiempo</div>
+    <div> PANADERIA</div>
     <div className="contenido">   
         <ListadoPanes></ListadoPanes>
         <PreciosPanes></PreciosPanes>
